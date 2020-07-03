@@ -1,5 +1,6 @@
 #!/bin/python3
 
+
 import math
 import os
 import random
@@ -22,7 +23,7 @@ def sockMerchant(n, ar):
     return n_pairs
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    fptr = sys.stdout
 
     n = int(input())
 
