@@ -30,7 +30,7 @@ def countingValleys(n, s):
 
 
 if __name__ == '__main__':
-    fptr = fptr = sys.stdout
+    fptr = sys.stdout
 
     n = int(input())
 
