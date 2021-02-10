@@ -8,6 +8,7 @@ import sys
 
 # Complete the minimumSwaps function below.
 def minimumSwaps(arr):
+    return 0
 
 if __name__ == '__main__':
     fptr = sys.stdout
